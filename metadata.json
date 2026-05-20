@@ -1,0 +1,10 @@
+{
+  "name": "Cat Voice Translator",
+  "description": "Interactive AI-powered cat-to-human translator, human-to-cat voice synthesizer, and conversational kitty personality companion.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
